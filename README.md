@@ -126,7 +126,7 @@ v
 <tbody>
 <tr class="odd">
 <td><ul>
-<li>2D Lidar SLAM Implementations (<a href="https://www.mathworks.com/help/nav/ug/implement-simultaneous-localization-and-mapping-with-lidar-scans.html">Offline</a>, <a href="https://www.mathworks.com/help/nav/ug/implement-online-simultaneous-localization-and-mapping-with-lidar-scans.html">Online</a>)</li>
+<li><a href="https://www.mathworks.com/help/nav/ug/implement-simultaneous-localization-and-mapping-with-lidar-scans.html">2D Lidar SLAM Implementations</a>
 <li><a href="https://www.mathworks.com/help/nav/ug/perform-lidar-slam-using-3d-lidar-point-clouds.html">3D Lidar SLAM Implementation</a></li>
 <li><a href="https://www.mathworks.com/help/nav/ref/slammapbuilder-app.html">SLAM Map Builder Application</a></li>
 <li><a href="https://www.mathworks.com/help/nav/mapping.html">Occupancy Grid Utilities</a></li>
